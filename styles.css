@@ -66,6 +66,7 @@ header {
 .app-card img {
   width: 100%;
   border-radius: 8px;
+  margin: 10px 0;
 }
 
 footer {
@@ -75,4 +76,5 @@ footer {
   font-size: 14px;
   color: #666;
 }
+
 
